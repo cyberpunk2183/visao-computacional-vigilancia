@@ -1,0 +1,7 @@
+# pesos do modelo (baixados automaticamente pelo ultralytics)
+*.pt
+# saídas em runtime — contêm imagens/vídeos reais, nunca versionar
+vigilancia/
+__pycache__/
+*.pyc
+.env
